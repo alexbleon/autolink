@@ -1,0 +1,14 @@
+{ "name"   : "autolink"
+, "description": "autolink library"
+, "version": "0.1.0"
+, "dependencies": { 
+    "mocha": "*" 
+    , "should": "1.2.1"
+    , "supertest": "0.4.0"
+  },
+
+  "scripts": {
+    "test": "mocha test"
+  }
+
+}
